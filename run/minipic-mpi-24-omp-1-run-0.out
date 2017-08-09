@@ -1,0 +1,207 @@
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 24!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 0!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 1!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 2!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 4!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 6!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 8!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 9!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 10!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 12!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 13!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 14!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 15!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 16!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 17!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 18!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 19!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 20!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 21!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 22!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 23!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 3!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 5!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 7!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06080 and rank 11!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 28!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 32!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 36!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 40!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 44!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 45!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 46!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 47!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 25!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 26!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 27!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 29!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 30!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 31!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 33!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 34!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 35!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 37!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 38!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 39!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 41!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 42!
+Teuchos::GlobalMPISession::GlobalMPISession(): started processor with name nid06081 and rank 43!
+Fill time 2.004051 for 100000000 particles
+0 1.0
+15 3.99724e-07 1.69016 1.95859e-31 0.348899
+Total KE is 78.4188
+0 1.0
+16 5.35792e-07 2.22699 6.06419e-14 0.231831
+Total KE is 78.4188
+0 1.0
+17 4.11661e-07 2.01525 1.18499e-13 1.50026
+Total KE is 78.4188
+0 1.0
+16 9.21736e-07 2.42377 9.17515e-13 0.377362
+Total KE is 78.4188
+0 1.0
+16 3.17059e-07 1.89084 2.49424e-12 0.188829
+Total KE is 78.4188
+0 1.0
+16 5.66095e-07 1.86371 3.60296e-12 0.185326
+Total KE is 78.4188
+0 1.0
+16 6.44435e-07 1.88909 7.45167e-13 0.225478
+Total KE is 78.4188
+0 1.0
+17 5.33569e-07 1.14497 1.70466e-13 0.40246
+Total KE is 78.4188
+0 1.0
+16 6.12476e-07 1.77879 2.49662e-12 0.179919
+Total KE is 78.4188
+0 1.0
+16 5.56139e-07 1.65085 1.56165e-12 0.156267
+Total KE is 78.4188
+0 1.0
+16 8.07742e-07 1.84152 3.23945e-13 0.185445
+Total KE is 78.4188
+0 1.0
+16 7.00936e-07 1.77276 1.65514e-12 0.1825
+Total KE is 78.4188
+0 1.0
+16 9.92497e-07 1.75117 1.03918e-12 0.165782
+Total KE is 78.4188
+0 1.0
+17 6.05612e-07 1.22276 5.79021e-13 0.634541
+Total KE is 78.4188
+0 1.0
+17 5.89548e-07 1.46802 4.34238e-13 1.06416
+Total KE is 78.4188
+0 1.0
+16 8.64342e-07 2.37723 1.22379e-12 0.523167
+Total KE is 78.4188
+0 1.0
+16 7.16093e-07 1.82217 2.27876e-12 0.180861
+Total KE is 78.4188
+0 1.0
+16 6.74102e-07 1.92856 1.56801e-12 0.202777
+Total KE is 78.4188
+0 1.0
+17 3.81253e-07 1.15567 1.87531e-13 0.311155
+Total KE is 78.4188
+0 1.0
+17 7.21897e-07 1.2487 2.67306e-13 0.681406
+Total KE is 78.4188
+Move time 35.585569 for 100000000 parts, or  28.1E6 updates/second 
+Timers are:
+Move 30.0326 Weight charge 2.07423, Sorting 0, Solve 1.26948, Weight EField 1.56445, and KE compute 0.178214
+Timers are:
+Move 30.8724 Weight charge 1.33066, Sorting 0, Solve 2.01357, Weight EField 0.896331, and KE compute 0.132721
+Timers are:
+Move 30.7764 Weight charge 1.25971, Sorting 0, Solve 2.08453, Weight EField 0.896716, and KE compute 0.099595
+Timers are:
+Move 29.4618 Weight charge 3.11181, Sorting 0, Solve 0.232388, Weight EField 2.38327, and KE compute 0.257149
+Timers are:
+Move 30.8884 Weight charge 1.24663, Sorting 0, Solve 2.09769, Weight EField 0.892143, and KE compute 0.102291
+Timers are:
+Move 29.2577 Weight charge 3.22534, Sorting 0, Solve 0.118936, Weight EField 2.37992, and KE compute 0.221983
+Timers are:
+Move 30.1381 Weight charge 1.9128, Sorting 0, Solve 1.43124, Weight EField 1.37306, and KE compute 0.134198
+Timers are:
+Move 29.6178 Weight charge 3.10268, Sorting 0, Solve 0.241814, Weight EField 2.36317, and KE compute 0.258273
+Timers are:
+Move 30.177 Weight charge 2.08954, Sorting 0, Solve 1.25466, Weight EField 1.55167, and KE compute 0.20157
+Timers are:
+Move 29.8122 Weight charge 3.02695, Sorting 0, Solve 0.317186, Weight EField 2.11048, and KE compute 0.195005
+Timers are:
+Move 30.0626 Weight charge 2.09391, Sorting 0, Solve 1.25029, Weight EField 1.5618, and KE compute 0.187019
+Timers are:
+Move 29.8363 Weight charge 2.8535, Sorting 0, Solve 0.490564, Weight EField 2.1168, and KE compute 0.242436
+Timers are:
+Move 30.1544 Weight charge 2.13016, Sorting 0, Solve 1.21403, Weight EField 1.55523, and KE compute 0.203439
+Timers are:
+Move 29.708 Weight charge 2.82155, Sorting 0, Solve 0.522603, Weight EField 2.11196, and KE compute 0.203608
+Timers are:
+Move 30.0388 Weight charge 2.08047, Sorting 0, Solve 1.26367, Weight EField 1.55892, and KE compute 0.179489
+Timers are:
+Move 30.1722 Weight charge 2.20443, Sorting 0, Solve 1.13977, Weight EField 1.55658, and KE compute 0.201867
+Timers are:
+Move 30.058 Weight charge 2.0841, Sorting 0, Solve 1.26009, Weight EField 1.56042, and KE compute 0.186738
+Timers are:
+Move 30.1572 Weight charge 2.08261, Sorting 0, Solve 1.26162, Weight EField 1.5537, and KE compute 0.203605
+Timers are:
+Move 29.7789 Weight charge 2.79889, Sorting 0, Solve 0.545167, Weight EField 2.11778, and KE compute 0.242194
+Timers are:
+Move 30.8141 Weight charge 1.2433, Sorting 0, Solve 2.10093, Weight EField 0.894331, and KE compute 0.122906
+Timers are:
+Move 29.886 Weight charge 3.0679, Sorting 0, Solve 0.27596, Weight EField 2.12285, and KE compute 0.231409
+Timers are:
+Move 30.5032 Weight charge 1.25051, Sorting 0, Solve 2.09361, Weight EField 0.899068, and KE compute 0.086947
+Timers are:
+Move 29.76 Weight charge 2.82002, Sorting 0, Solve 0.523891, Weight EField 2.11115, and KE compute 0.198698
+Timers are:
+Move 30.8867 Weight charge 1.24332, Sorting 0, Solve 2.10089, Weight EField 0.89367, and KE compute 0.10313
+Timers are:
+Move 30.0988 Weight charge 1.93833, Sorting 0, Solve 1.40567, Weight EField 1.35268, and KE compute 0.135848
+Timers are:
+Move 30.8473 Weight charge 1.25449, Sorting 0, Solve 2.08975, Weight EField 0.892585, and KE compute 0.115974
+Timers are:
+Move 30.0809 Weight charge 1.87974, Sorting 0, Solve 1.46411, Weight EField 1.35637, and KE compute 0.127213
+Timers are:
+Move 30.8708 Weight charge 1.24318, Sorting 0, Solve 2.10115, Weight EField 0.897407, and KE compute 0.132946
+Timers are:
+Move 30.3722 Weight charge 1.88228, Sorting 0, Solve 1.46173, Weight EField 1.3525, and KE compute 0.134482
+Timers are:
+Move 30.3256 Weight charge 1.87162, Sorting 0, Solve 1.47261, Weight EField 1.37887, and KE compute 0.167244
+Timers are:
+Move 30.5622 Weight charge 1.88384, Sorting 0, Solve 1.46019, Weight EField 1.36109, and KE compute 0.168689
+Timers are:
+Move 30.3406 Weight charge 1.96566, Sorting 0, Solve 1.3786, Weight EField 1.38523, and KE compute 0.188164
+Timers are:
+Move 30.0673 Weight charge 1.87896, Sorting 0, Solve 1.46483, Weight EField 1.35662, and KE compute 0.135216
+Timers are:
+Move 30.1596 Weight charge 1.8833, Sorting 0, Solve 1.46075, Weight EField 1.37935, and KE compute 0.138183
+Timers are:
+Move 30.0631 Weight charge 1.86552, Sorting 0, Solve 1.47824, Weight EField 1.36141, and KE compute 0.128393
+Timers are:
+Move 30.1467 Weight charge 1.93832, Sorting 0, Solve 1.40578, Weight EField 1.38552, and KE compute 0.126653
+Timers are:
+Move 30.4412 Weight charge 1.86417, Sorting 0, Solve 1.47969, Weight EField 1.35163, and KE compute 0.135037
+Timers are:
+Move 30.3041 Weight charge 1.87136, Sorting 0, Solve 1.473, Weight EField 1.37344, and KE compute 0.169989
+Timers are:
+Move 29.2529 Weight charge 3.16924, Sorting 0, Solve 0.174972, Weight EField 2.39294, and KE compute 0.222535
+Timers are:
+Move 30.3357 Weight charge 1.90782, Sorting 0, Solve 1.43659, Weight EField 1.38379, and KE compute 0.188309
+Timers are:
+Move 29.6071 Weight charge 3.17844, Sorting 0, Solve 0.166019, Weight EField 2.37089, and KE compute 0.260095
+Timers are:
+Move 30.1553 Weight charge 1.86753, Sorting 0, Solve 1.4766, Weight EField 1.38186, and KE compute 0.124102
+Timers are:
+Move 29.0767 Weight charge 3.11184, Sorting 0, Solve 0.23231, Weight EField 2.38399, and KE compute 0.221816
+Timers are:
+Move 29.0743 Weight charge 3.25948, Sorting 0, Solve 0.084649, Weight EField 2.38595, and KE compute 0.222201
+Timers are:
+Move 29.4749 Weight charge 3.11383, Sorting 0, Solve 0.23038, Weight EField 2.38358, and KE compute 0.260765
+Timers are:
+Move 29.7942 Weight charge 2.81004, Sorting 0, Solve 0.533871, Weight EField 2.1101, and KE compute 0.196161
+Timers are:
+Move 29.5055 Weight charge 2.81914, Sorting 0, Solve 0.524697, Weight EField 2.12108, and KE compute 0.186406
+Timers are:
+Move 30.2328 Weight charge 1.86568, Sorting 0, Solve 1.478, Weight EField 1.36092, and KE compute 0.124048
+Run used: 38885636 global max RSS, max local RSS: 1192252
